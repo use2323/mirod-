@@ -1,0 +1,45 @@
+header{
+    background: url(../img/headercar.jpg) no-repeat center/cover;
+    height: 750px;
+}
+
+header h2{
+    font-size: 60px;
+    color: #ffffff;
+}
+
+section img{
+    width: 100%;
+}
+
+section h2{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 55px;
+    color: #445161;
+    font-size: 30px;
+}
+
+section h3{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 31px;
+    font-size: 30px;
+    color: #445161
+}
+
+section p{
+    padding-top: 28px;
+    color: #333333;
+}
+
+footer{
+    background: url(../img/roooooooow.jpg) no-repeat center/cover; 
+}
+
+footer h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+}
